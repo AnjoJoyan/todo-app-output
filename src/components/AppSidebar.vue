@@ -23,7 +23,7 @@
 
     <button class="nav-item logout" @click="handleLogout">
       <span class="nav-icon">→</span>
-      <span>Logout</span>
+      <span>Signout</span>
     </button>
   </aside>
 </template>
